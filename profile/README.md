@@ -1,3 +1,7 @@
+![Impa Builders](https://github.com/Impa-Ventures/.github/blob/main/4123543654376.png)
+
+
+
 # Build. Back. Belong.
 
 At **Impa Ventures**, we believe that venture capital should be written in code —  
@@ -33,12 +37,7 @@ while building alongside them — from first commit to first customer.
 Explore our open projects, join our experiments, or fork an idea —  
 because **the best way to invest in the future is to build it.**
 
----
-
-### Get Involved
-
-- Browse our [projects](#) and [repos](#).  
-- Follow the journey: [impa.ventures](https://impa.ventures)
+Follow the journey: [impa.ventures](https://impa.ventures)
 
 ---
 
